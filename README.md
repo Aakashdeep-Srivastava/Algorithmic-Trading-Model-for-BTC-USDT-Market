@@ -33,14 +33,6 @@ Welcome to our GitHub repository, where we're innovating the cryptocurrency trad
 - **Machine Learning Models:** Deployment of LSTM networks for capturing complex market dynamics.
 - **Risk Management:** Utilization of GARCH models for volatility assessment and management.
 
-## 📈 Performance of Models
-
-- **Criteria:** Evaluation based on performance, logic, risk management, code quality, data visualization, and presentation.
-
-## 🙏 Conclusion
-
-- A heartfelt thank you to all participants. Wishing you the best of luck in crafting innovative and profitable models.
-
 ## 📚 Reference
 
 - "Bitcoin Return Volatility Forecasting: A Comparative Study between GARCH and RNN"
